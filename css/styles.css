@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color:floralwhite;
+}
+
+header{
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 6px;
+}
+
+li {
+    background-color: azure;
+    display:inline-block;
+}
+
+section {
+        background-color: azure;
+        text-align:center;
+}
+
+body {
+    background-image:url("../img/imgbrillos11.jpeg" );
+    background-repeat:repeat;
+}
+
+section .productos {
+    background-color: azure;  
+}
+
+section .servicios {
+    background-color: azure;
+}
+
+section .reven {
+    background-color: azure;
+}
+
+section .contacto {
+    background-color: azure;
+}
+
+img{
+ 
+    padding-right: 5px;
+}
